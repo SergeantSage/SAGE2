@@ -45,6 +45,7 @@ Your ultimate music companion on Discord. Here are the available commands:
 [ /stop    ] - Destroys the music player.
 [ /np      ] - Shows now playing song.
 [ /volume  ] - Sets the volume of the player.
+[ /support ] - Get support.
 [ /ping    ] - Check bot latency.
 [ /help    ] - Display this help menu.
 \`\`\`
